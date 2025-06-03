@@ -7,3 +7,4 @@ A repo for coordinating genesis transactions and sharing genesis files for Front
 Get started with Black Mamba 0 by reading the chain instructions [here](0-black-mamba).
 Commit on 2025-06-01
 Commit on 2025-06-02
+Commit on 2025-06-03
